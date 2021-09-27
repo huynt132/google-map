@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google_map</string>
+    <string name="none">None</string>
+    <string name="satellite_map">SateLLite Map</string>
+    <string name="maphybrid_map">MapHybrid Map</string>
+    <string name="terrain_map">Terrain Map</string>
+    <string name="normal_map">Normal Map</string>
+</resources>
